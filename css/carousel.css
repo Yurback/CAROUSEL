@@ -3,9 +3,9 @@
 .wrapper-carousel {
     position: relative;
     width: 800px;
-    height: 300px;
+    height: 270px;
     /* border: 1px solid black; */
-    margin: 50px auto;
+    margin: auto auto;
 }
 
 #carousel {
